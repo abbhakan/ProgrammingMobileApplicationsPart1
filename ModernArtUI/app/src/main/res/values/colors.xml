@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="red1">#ff0000</color>
+    <color name="red2">#ff1919</color>
+    <color name="red3">#ff3232</color>
+    <color name="red4">#ff4c4c</color>
+    <color name="red5">#ff6666</color>
+    <color name="red6">#ff7f7f</color>
+    <color name="red7">#ff9999</color>
+    <color name="red8">#ffb2b2</color>
+    <color name="red9">#ffcccc</color>
+    <color name="red10">#ffe5e5</color>
+
+    <color name="blue1">#0000ff</color>
+    <color name="blue2">#1919ff</color>
+    <color name="blue3">#3232ff</color>
+    <color name="blue4">#4c4cff</color>
+    <color name="blue5">#6666ff</color>
+    <color name="blue6">#7f7fff</color>
+    <color name="blue7">#9999ff</color>
+    <color name="blue8">#b2b2ff</color>
+    <color name="blue9">#ccccff</color>
+    <color name="blue10">#e5e5ff</color>
+
+
+    <color name="green1">#00ff00</color>
+    <color name="green2">#19ff19</color>
+    <color name="green3">#32ff32</color>
+    <color name="green4">#4cff4c</color>
+    <color name="green5">#66ff66</color>
+    <color name="green6">#7fff7f</color>
+    <color name="green7">#99ff99</color>
+    <color name="green8">#b2ffb2</color>
+    <color name="green9">#ccffcc</color>
+    <color name="green10">#e5ffe5</color>
+
+    <color name="yellow1">#ffff00</color>
+    <color name="yellow2">#ffff19</color>
+    <color name="yellow3">#ffff32</color>
+    <color name="yellow4">#ffff4c</color>
+    <color name="yellow5">#ffff66</color>
+    <color name="yellow6">#ffff7f</color>
+    <color name="yellow7">#ffff99</color>
+    <color name="yellow8">#ffffb2</color>
+    <color name="yellow9">#ffffcc</color>
+    <color name="yellow10">#ffffe5</color>
+
+</resources>
